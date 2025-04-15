@@ -9,6 +9,10 @@ body {
 }
 
 .main_section {
+    display: felx;
+    flex-direction: row;
+    justify-content: center;
+    max-width: 80%;
     text-align: center;
 }
 
